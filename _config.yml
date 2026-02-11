@@ -1,2 +1,3 @@
 name: Christie-Website
-theme: midnight
+remote_theme: pages-themes/midnight@v0.w.0
+plugins: jekyll-remote-theme 
